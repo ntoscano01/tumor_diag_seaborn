@@ -1,4 +1,4 @@
-# Tumor Diagnosis With Seaborn (Exploratory Data Analysis)
+# Tumor Diagnosis With Seaborn
 
 ## Exploratory data analysis with seaborn
 
