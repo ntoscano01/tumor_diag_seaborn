@@ -1,7 +1,6 @@
 # tumor_diag_seaborn
 
 ## Exploratory data analysis with seaborn
-**
 
 For this project I used Seaborn to discover and explore the relationships in the Breast Cancer Wisconsin (Diagnostic) data set. Below are the tasks copmleted for this project: 
 
