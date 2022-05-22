@@ -26,7 +26,7 @@ We can use dataframe.describe() to get a summary of our data. dataframe.describe
 
 ### **Task 4:** Visualizing Standardized Data with Seaborn
 
-Use violin plot to visualize standarized data.
+Use violin plot to visualize standarized data.  We can look at the separation between the median values to determine whether this would be a good feature to use for classification.
 
 <img src="https://github.com/ntoscano01/tumor_diag_seaborn/blob/main/violin_plot.png" width="400" height="300">
 
