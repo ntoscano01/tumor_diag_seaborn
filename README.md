@@ -4,15 +4,17 @@
 
 For this project I used Seaborn to discover and explore the relationships in the <a href="https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))">Breast Cancer Wisconsin (Diagnostic) data set</a>. Below are the tasks copmleted for this project: 
 
-####**Task 1:** Introduction and Importing the Data
+#### **Task 1:** Introduction and Importing the Data
 
-<img src="https://github.com/ntoscano01/certificates/blob/main/exploratory%20data%20analysis%20with%20seaborn.png" width="400" height="300">
+<img src="" width="400" height="300">
 
-####**Task 2:** Separate Target from Features
+#### **Task 2:** Separate Target from Features
 
-<img src="https://github.com/ntoscano01/certificates/blob/main/exploratory%20data%20analysis%20with%20seaborn.png" width="400" height="300">
+Seperate target features into a new dataframe.
 
-**Task 3:** Diagnosis Distribution Visualization
+<img src="https://github.com/ntoscano01/tumor_diag_seaborn/blob/main/target_variable.png" width="400" height="300">
+
+#### **Task 3:** Diagnosis Distribution Visualization
 
 Let's use seaborn countplot() to look at the diagnosis distriubition between benign and malignant tumors.
 
@@ -22,9 +24,11 @@ We can use dataframe.describe() to get a summary of our data. dataframe.describe
 
 <img src="https://github.com/ntoscano01/tumor_diag_seaborn/blob/main/data_description.png" width="400" height="300">
 
-**Task 4:** Visualizing Standardized Data with Seaborn
+#### **Task 4:** Visualizing Standardized Data with Seaborn
 
-<img src="https://github.com/ntoscano01/certificates/blob/main/exploratory%20data%20analysis%20with%20seaborn.png" width="400" height="300">
+Use violin plot to visualize standarized data.
+
+<img src="https://github.com/ntoscano01/tumor_diag_seaborn/blob/main/violin_plot.png" width="400" height="300">
 
 **Task 5 :** Violin Plots and Box Plots
 
