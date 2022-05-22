@@ -4,11 +4,11 @@
 
 For this project I used Seaborn to discover and explore the relationships in the <a href="https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))">Breast Cancer Wisconsin (Diagnostic) data set</a>. Below are the tasks copmleted for this project: 
 
-**Task 1:** Introduction and Importing the Data
+####**Task 1:** Introduction and Importing the Data
 
 <img src="https://github.com/ntoscano01/certificates/blob/main/exploratory%20data%20analysis%20with%20seaborn.png" width="400" height="300">
 
-**Task 2:** Separate Target from Features
+####**Task 2:** Separate Target from Features
 
 <img src="https://github.com/ntoscano01/certificates/blob/main/exploratory%20data%20analysis%20with%20seaborn.png" width="400" height="300">
 
