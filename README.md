@@ -2,7 +2,7 @@
 
 ## Exploratory data analysis with seaborn
 
-For this project I used Seaborn to discover and explore the relationships in the Breast Cancer Wisconsin (Diagnostic) data set. Below are the tasks copmleted for this project: 
+For this project I used Seaborn to discover and explore the relationships in the <a href="[url](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))">Breast Cancer Wisconsin (Diagnostic) data set</a>. Below are the tasks copmleted for this project: 
 
 **Task 1:** Introduction and Importing the Data
 
