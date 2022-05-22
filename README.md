@@ -22,7 +22,7 @@ For this project I used Seaborn to discover and explore the relationships in the
 
 _Note: I completed this project on Coursera_
 
-<img src="https://github.com/ntoscano01/certificates/blob/main/exploratory%20data%20analysis%20with%20seaborn.pdf" width="400" height="300">
+<img src="" width="400" height="300">
 
 ***Course Certificate***
 
