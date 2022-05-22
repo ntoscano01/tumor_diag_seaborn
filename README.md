@@ -20,4 +20,4 @@ For this project I used Seaborn to discover and explore the relationships in the
 
 **Task 8:** Observing all Pairwise Correlations
 
-_I completed this project on Coursera_
+_Note: I completed this project on Coursera_
