@@ -6,7 +6,9 @@ For this project I used Seaborn to discover and explore the relationships in the
 
 ### **Task 1:** Introduction and Importing the Data
 
-<img src="" width="400" height="300">
+Import the data into a data frame using Pandas.  We can also look at all the columns using data.columns.
+
+<img src="https://github.com/ntoscano01/tumor_diag_seaborn/blob/main/build_data_frame.png" width="400" height="300">
 
 ### **Task 2:** Separate Target from Features
 
